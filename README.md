@@ -59,7 +59,7 @@ Frontend  Dev with Strong collaboration skills and proven history of Application
 <hr>
 <br />
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=naveenchanth5-R&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=naveenchanth&theme=redical">
 </p> 
 <p align="left">
     <a href="https://NaveenChanth R.dev/">

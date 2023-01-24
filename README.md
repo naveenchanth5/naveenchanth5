@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naveenchanth5
 - 👀 I’m interested in ...WebDevelopment
-- 🌱 I’m currently learning ...ReactJS Developer
+- 🌱 I’m currently learning ...ReactJS 
 
 
 <!---
